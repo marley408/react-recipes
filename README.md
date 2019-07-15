@@ -7,6 +7,11 @@ This is quick and simple React project. Enter a type of food (ie. banana) into t
 3. Navigate into client
 4. Run npm start
 
+## Features
+- Async/ Await 
+- Fetch API call to edamam.com to retrieve recipes
+- React hooks (useEffect, useState)
+
 
 
 
