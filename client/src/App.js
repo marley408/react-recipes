@@ -1,6 +1,7 @@
 import React,{useEffect, useState} from 'react';
 import Recipe from './Recipe'
 import './App.css';
+import './Background.css';
 
 const App= () => {
 
